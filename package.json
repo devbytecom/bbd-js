@@ -1,0 +1,14 @@
+{
+  "name": "bbd-js",
+  "version": "1.0.0",
+  "description": "BDD JS Example for a training session",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Shaun Brown",
+  "license": "ISC",
+  "dependencies": {
+    "cucumber": "^6.0.7"
+  }
+}
